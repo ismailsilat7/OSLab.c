@@ -1,0 +1,1 @@
+int validate(char* username);
